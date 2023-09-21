@@ -1,0 +1,5 @@
+Hello sir
+this test to learn file handling
+thank you for learning python
+good bye
+welcome again sir
