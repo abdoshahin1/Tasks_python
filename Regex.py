@@ -1,5 +1,5 @@
-# this exception use to detect the mobile number => \s\d{4}\s?\d{3}\s?\d{4}\s
-# this exception use to detect the email => [A-z0-9]+(.?-?)[A-z0-9]+(.?-?)[A-z0-9]+@[A-z]+.[A-z]+ other one [A-z0-9\.\-]+@[A-z0-9]+\.\w+
+# this excepration use to detect the mobile number => \s\d{4}\s?\d{3}\s?\d{4}\s
+# this excepration use to detect the email => [A-z0-9]+(.?-?)[A-z0-9]+(.?-?)[A-z0-9]+@[A-z]+.[A-z]+ other one [A-z0-9\.\-]+@[A-z0-9]+\.\w+
 import re
 # findall()=> return match or empty list
 # split(regex, string, maxsplit)
