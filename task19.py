@@ -1,6 +1,6 @@
-'''
-this is hard task because i search all time
-'''
+"""
+this is hard task because I search all time
+"""
 # my_list = ["E", "Z", "R", 1, 2, 3]
 # my_tuple = ("L", "E", "O")
 # my_data = []
@@ -52,8 +52,6 @@ this is hard task because i search all time
 # print(say_hello_to("Osama"))
 
 # print(say_hello_to.__doc__)
-
-
 
 # myFriends = ["Ahmed", "Osama", "Sayed"]
 
